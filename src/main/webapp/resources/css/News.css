@@ -1,0 +1,13 @@
+.panel-default > .panel-heading {
+    text-align:center;
+}
+
+.panel-default > .panel-heading a {
+    font-size: 14px;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.panel-default > .panel-heading a.active{
+    font-size: 18px;
+}
